@@ -1,0 +1,1 @@
+g++  -std=c++11 $1.cpp -o $1 -L /usr/lib/ -lboost_system -lboost_thread -lnetwork-uri -lpthread
